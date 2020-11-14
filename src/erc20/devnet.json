@@ -1,0 +1,27 @@
+[
+{
+    "symbol": "SOL",
+    "address": "So11111111111111111111111111111111111111112",
+    "name": "Solana 💪",
+    "decimals": 6
+  },
+  {
+    "symbol": "XYZ",
+    "address": "DEhAasscXF4kEGxFgJ3bq4PpVGp5wyUxMRvn6TzGVHaw",
+    "name": "XYZ Test 💪",
+    "decimals": 6
+  },
+  {
+    "symbol": "ABC",
+    "address": "6z83b76xbSm5UhdG33ePh7QCbLS8YaXCQ9up86tDTCUH",
+    "name": "ABC Test 💪",
+    "decimals": 6
+  },
+  {
+    "symbol": "DEF",
+    "address": "3pyeDv6AV1RQuA6KzsqkZrpsNn4b3hooHrQhGs7K2TYa",
+    "name": "DEF Test 💪",
+    "decimals": 6
+
+  }
+]

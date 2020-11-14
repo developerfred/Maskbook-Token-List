@@ -1,9 +1,12 @@
-const { schema } = require("@uniswap/token-lists");
+  const { schema } = require("@uniswap/token-lists");
 const Ajv = require("ajv");
 const metadata = require("eth-contract-metadata");
 const { EthereumAddress } = require("wallet.ts");
 const Mainnet = require("./erc20/mainnet.json");
 const Rinkeby = require("./erc20/rinkeby.json");
+const SolanaMainnet = require("./erc20/mainnet-solana.json");
+const SolanaDevnet = require("./erc20/devnet.json");
+const SolanaTestnet = require("./erc20/testnet.json");
 const package = require("../package.json");
 
 function generateMaskbookTokenList() {
@@ -15,6 +18,8 @@ function generateMaskbookTokenList() {
     keywords: [
       "browser extension",
       "web3",
+      "Solana",
+      "Ethereum",
       "peer to peer",
       "encryption",
       "cryptography",
@@ -32,7 +37,7 @@ function generateMaskbookTokenList() {
       minor: Number.parseInt(package.version.split(".")[1]),
       patch: Number.parseInt(package.version.split(".")[2]),
     },
-    
+
     tokens: [
       ...Mainnet.map((x) => ({
         chainId: 1,
@@ -41,6 +46,21 @@ function generateMaskbookTokenList() {
 
       ...Rinkeby.map((x) => ({
         chainId: 4,
+        ...x,
+      })),
+
+      ...SolanaMainnet.map((x) => ({
+        chainId: 5,
+        ...x,
+      })),
+
+      ...SolanaTestnet.map((x) => ({
+        chainId: 6,
+        ...x,
+      })),
+
+      ...SolanaDevnet.map((x) => ({
+        chainId: 7,
         ...x,
       })),
 

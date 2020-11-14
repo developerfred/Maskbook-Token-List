@@ -1,0 +1,160 @@
+[
+  {
+        "decimals": 6,
+        "symbol": "SOL",
+        "name": "Wrapped SOL",
+        "address": "So11111111111111111111111111111111111111112"
+    },
+        {
+            "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+            "name": "Serum",
+            "symbol": "SRM",
+
+            "decimals": 6
+        },
+        {
+            "address": "MSRMcoVyrFxnSgo5uXwone5SKcGhT1KEJMFEkMEWf9L",
+            "name": "MegaSerum",
+            "symbol": "MSRM",
+
+            "decimals": 0
+        },
+        {
+            "address": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+            "name": "Wrapped Bitcoin",
+            "symbol": "BTC",
+
+            "decimals": 6
+        },
+        {
+            "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+            "name": "Wrapped Ethereum",
+            "symbol": "ETH",
+
+            "decimals": 6
+        },
+        {
+            "address": "3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB",
+            "name": "Wrapped YFI",
+            "symbol": "YFI",
+
+            "decimals": 6
+        },
+        {
+            "address": "AGFEad2et2ZJif9jaGpdMixQqvW5i81aBdvKe7PHNfz3",
+            "name": "Wrapped FTT",
+            "symbol": "FTT",
+
+            "decimals": 6
+        },
+        {
+            "address": "3JSf5tPeuscJGtaCp5giEiDhv51gQ4v3zWg8DGgyLfAB",
+            "name": "Wrapped YFI",
+            "symbol": "YFI",
+            "decimals": 6
+        },
+        {
+            "address": "CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG",
+            "name": "Wrapped Chainlink",
+            "symbol": "LINK",
+            "decimals": 6
+        },
+        {
+            "address": "Ga2AXHpfAF6mv2ekZwcsJFqu7wB4NV331qNH7fW9Nst8",
+            "name": "Wrapped XRP",
+            "symbol": "XRP",
+            "decimals": 6
+        },
+        {
+            "address": "BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4",
+            "name": "Wrapped USDT",
+            "symbol": "USDT",
+            "decimals": 6
+        },
+        {
+            "address": "BXXkv6z8ykpG1yuvUDPgh732wzVHB69RnB9YgSYh3itW",
+            "name": "Wrapped USDC",
+            "symbol": "USDC",
+            "decimals": 6
+        },
+        {
+            "address": "AR1Mtgh7zAtxuxGd2XPovXPVjcSdY3i4rQYisNadjfKy",
+            "name": "Wrapped SUSHI",
+            "symbol": "SUSHI",
+            "decimals": 6
+        },
+        {
+            "address": "CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K",
+            "name": "Wrapped ALEPH",
+            "symbol": "ALEPH",
+            "decimals": 6
+        },
+        {
+            "address": "SF3oTvfWzEP3DTwGSvUXRrGTvr75pdZNnBLAH9bzMuX",
+            "name": "Wrapped SXP",
+            "symbol": "SXP",
+            "decimals": 6
+        },
+        {
+            "address": "5Fu5UUgbjpUvdBveb3a1JTNirL8rXtiYeSMWvKjtUNQv",
+            "name": "Wrapped CREAM",
+            "symbol": "CREAM",
+            "decimals": 6
+        },
+        {
+            "address": "873KLxCbz7s9Kc4ZzgYRtNmhfkQrhfyWGZJBmyCbC3ei",
+            "name": "Wrapped UBXT",
+            "symbol": "UBXT",
+            "decimals": 6
+        },
+        {
+            "address": "HqB7uswoVg4suaQiDP3wjxob1G5WdZ144zhdStwMCq7e",
+            "name": "Wrapped HNT",
+            "symbol": "HTN",
+            "decimals": 6
+        },
+        {
+            "address": "9S4t2NEAiJVMvPdRYKVrfJpBafPBLtvbvyS3DecojQHw",
+            "name": "Wrapped FRONT",
+            "symbol": "FRONT",
+            "decimals": 6
+        },
+        {
+            "address": "6WNVCuxCGJzNjmMZoKyhZJwvJ5tYpsLyAtagzYASqBoF",
+            "name": "Wrapped AKRO",
+            "symbol": "AKRO",
+            "decimals": 6
+        },
+        {
+            "address": "DEhAasscXF4kEGxFgJ3bq4PpVGp5wyUxMRvn6TzGVHaw",
+            "name": "Wrapped UNI",
+            "symbol": "UNI",
+
+            "decimals": 6
+        },
+        {
+            "address": "DJafV9qemGp7mLMEn5wrfqaFwxsbLgUsGVS16zKRk9kc",
+            "name": "Wrapped HXRO",
+            "symbol": "HXRO",
+
+            "decimals": 6
+        },
+        {
+            "address": "BtZQfWqDGbk9Wf2rXEiWyQBdBY1etnUUn6zEphvVS7yN",
+            "name": "Wrapped HGET",
+            "symbol": "HGET",
+            "decimals": 6
+        },
+        {
+            "symbol": "TOMO",
+            "address": "GXMvfY2jpQctDqZ9RoU3oWPhufKiCcFEfchvYumtX7jd",
+            "name": "Wrapped TOMO",
+            "decimals": 6
+          },
+          {
+            "symbol": "KARMA",
+            "address": "EcqExpGNFBve2i1cMJUTR4bPXj4ZoqmDD2rTkeCcaTFX",
+            "name": "Wrapped KARMA",
+            "decimals": 6
+          }
+    ]

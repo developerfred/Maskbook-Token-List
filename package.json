@@ -1,6 +1,6 @@
 {
   "name": "Maskbook-Token-List",
-  "version": "0.0.1",
+  "version": "0.0.1-sol",
   "main": "index.js",
   "repository": "https://github.com/DimensionDev/Maskbook-Token-List.git",
   "author": "guanbinrui <guanbinrui@dimension.im>",
@@ -10,7 +10,7 @@
     "publish": "&& gh-pages -d ./dist"
   },
   "dependencies": {
-    "@uniswap/token-lists": "^1.0.0-beta.16",
+    "@uniswap/token-lists": "^1.0.0-beta.18",
     "ajv": "^6.12.5",
     "eth-contract-metadata": "^1.15.0",
     "wallet.ts": "^1.0.1"
