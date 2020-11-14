@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@uniswap/token-lists@^1.0.0-beta.18":
+"@uniswap/token-lists@^1.0.0-beta.17":
   version "1.0.0-beta.18"
   resolved "https://registry.yarnpkg.com/@uniswap/token-lists/-/token-lists-1.0.0-beta.18.tgz#b6c70b67fa9ee142e6df088e40490ec3a545e7ba"
   integrity sha512-RuDY36JUc2+Id2Dlpnt+coFfUEf9WkfvR0a3LKvwVgzAfcrd5KvjZg+PhAr4bczFU1aq7rs3/QLgwpsnFYaiPw==
